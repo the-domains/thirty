@@ -1,0 +1,28 @@
+name: thirty
+favicon: null
+layout_spectrum: 0.9977416945621371
+typography_spectrum: 0.47004414442926645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.16813940578140318
+  lightness: 0.4910942285787314
+  saturation: 0.7137555631343275
+  rhythmicContrast: 0.4014532803557813
+purpose: []
